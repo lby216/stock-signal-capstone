@@ -1,10 +1,12 @@
 .DS_Store
 .~*
 __pycache__/
+.ipynb_checkpoints/
 .matplotlib-cache/
 data/raw/
 data/sample/
 data/processed/*.parquet
+data/processed/test_predictions.csv
 report/rendered_final_report/
 report/pdf_preview/
 presentation/pptx_preview/
