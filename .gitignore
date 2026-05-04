@@ -1,0 +1,10 @@
+.DS_Store
+.~*
+__pycache__/
+.matplotlib-cache/
+data/raw/
+data/sample/
+data/processed/*.parquet
+report/rendered_final_report/
+report/pdf_preview/
+presentation/pptx_preview/
